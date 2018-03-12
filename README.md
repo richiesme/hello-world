@@ -1,4 +1,4 @@
 # hello-world
 start repo
-I am ambitious and an Enterprenuer seeking to make an impact in the blockchain technology space.
-Thank you
+I am an ambitious young man and an Enterprenuer seeking to make an impact in the blockchain technology space.
+Follow me
